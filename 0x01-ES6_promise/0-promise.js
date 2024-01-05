@@ -1,7 +1,7 @@
 function getResponseFromAPI() {
-    return Promise.resolve({
-      body: 'A promise kept',
-    });
-  }
-  
-  export default getResponseFromAPI;
+  return Promise.resolve({
+    body: 'A promise kept',
+  });
+}
+
+export default getResponseFromAPI;
