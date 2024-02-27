@@ -1,6 +1,5 @@
-const displayMessage = (msg)=>{
+function displayMessage(msg) {
     console.log(msg);
-    return;
-};
 
+}
 module.exports = displayMessage;

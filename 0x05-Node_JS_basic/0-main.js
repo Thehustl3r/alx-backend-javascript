@@ -1,4 +1,3 @@
-import displayMessage from './0-console';
+const displayMessage = require('./0-console');
 
-console.log("hello")
-// displayMessage("Hello NodeJS!");
+displayMessage("hello world");
