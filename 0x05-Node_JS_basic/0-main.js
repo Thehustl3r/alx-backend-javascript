@@ -1,3 +1,3 @@
 const displayMessage = require('./0-console');
 
-displayMessage("hello world");
+displayMessage("Hello NodeJS!");
